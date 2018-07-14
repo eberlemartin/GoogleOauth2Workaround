@@ -1,5 +1,5 @@
 # GoogleOauth2Workaround
-A hacky way to get users authorized through google Oauth2 (to access Firebase)
+A hacky way to get users authorized through google Oauth2 (e.g. to access Firebase from an Arduino project)
 
 1. Set up your firebase project, enable authentication through Google
 2. Create a Oauth2.0-Client-ID in developers console and copy Client-ID and Client-Secret into this sketch.
